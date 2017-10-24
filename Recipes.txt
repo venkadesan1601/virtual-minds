@@ -1,14 +1,9 @@
 
 Welcome to kitchen
   
-  Sapati
-  Idly
-  poori
-  
-  Pizza
-  Mutton
-
-  Vadai
-  
+  Non-Veg Only Here
+    1.Mutton
+    2.Chikken
+    
 
 Thank you :)
