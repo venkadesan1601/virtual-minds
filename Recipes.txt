@@ -1,10 +1,6 @@
 
 Welcome to kitchen
-  
-  Pure Veg Only Here
-    1.Idly
-    2.Pongal
-    3.Dosa
+ 
 
 
 Thank you :)
