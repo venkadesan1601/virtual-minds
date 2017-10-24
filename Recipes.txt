@@ -1,6 +1,11 @@
 
 Welcome to kitchen
 
+  Pure Veg Only Here
+    1.Idly
+    2.Pongal
+    3.Dosa
+    4.Vadai
   
   Non-Veg Only Here
     1.Mutton
