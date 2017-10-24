@@ -1,14 +1,7 @@
 
 Welcome to kitchen
   
-  Sapati
-  Idly
-  poori
   
-  Pizza
-  Mutton
-
-  Vadai
   
 
 Thank you :)
